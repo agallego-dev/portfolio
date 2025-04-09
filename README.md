@@ -39,10 +39,10 @@ Desarrollador de software con más de 10 años de experiencia en entornos empres
 - Adaptación de servicios a nuevas normativas o integraciones externas
 
 ### 🧪 Proyectos técnicos propios / académicos
-- 📱 [Presupuesto App (Android)](https://github.com/TU_USUARIO/presupuesto-app): App para calcular presupuestos de servicios digitales
-- 🐚 [Minishell en C](https://github.com/TU_USUARIO/minishell-c): Intérprete de comandos con funcionalidades básicas tipo Unix
-- 📊 [Prácticas MPA en C++](https://github.com/TU_USUARIO/mpa-practicas-cpp): Manipulación de datos, ficheros binarios y estructuras dinámicas
-- 🛒 [Carro de la Compra en Java](https://github.com/TU_USUARIO/poo-java-practicas): Gestión de artículos, clientes y carrito de forma orientada a objetos
+- 📱 [Presupuesto App (Android)](https://github.com/agallego-dev/presupuesto-app): App para calcular presupuestos de servicios digitales
+- 🐚 [Minishell en C](https://github.com/agallego-dev/minishell-c): Intérprete de comandos con funcionalidades básicas tipo Unix
+- 📊 [Prácticas MPA en C++](https://github.com/agallego-dev/mpa-practicas-cpp): Manipulación de datos, ficheros binarios y estructuras dinámicas
+- 🛒 [Carro de la Compra en Java](https://github.com/agallego-dev/poo-java-practicas): Gestión de artículos, clientes y carrito de forma orientada a objetos
 
 ---
 
