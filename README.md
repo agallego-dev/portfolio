@@ -11,7 +11,8 @@ Desarrollador de software con más de 10 años de experiencia en entornos empres
 - PL/SQL (Oracle, SQL Server)
 - C / C++ (experiencia académica y mantenimiento de aplicaciones)
 - Servicios REST, control de errores y pruebas unitarias
-
+- Progress4GL
+  
 ### Frontend
 - HTML, CSS, JavaScript
 - JSP y servlets en entornos legacy
