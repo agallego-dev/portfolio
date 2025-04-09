@@ -51,6 +51,7 @@ Desarrollador de software con más de 10 años de experiencia en entornos empres
 
 - Resolutivo ante problemas técnicos reales
 - Capacidad de adaptación a equipos y estructuras existentes
+- Gestión y control de equipos
 - Interés constante en seguir formándome en tecnologías modernas
 - Atención al detalle y orientación a código mantenible
 
