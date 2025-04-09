@@ -43,6 +43,7 @@ Desarrollador de software con más de 10 años de experiencia en entornos empres
 - 🐚 [Minishell en C](https://github.com/agallego-dev/minishell-c): Intérprete de comandos con funcionalidades básicas tipo Unix
 - 📊 [Prácticas MPA en C++](https://github.com/agallego-dev/mpa-practicas-cpp): Manipulación de datos, ficheros binarios y estructuras dinámicas
 - 🛒 [Carro de la Compra en Java](https://github.com/agallego-dev/poo-java-practicas): Gestión de artículos, clientes y carrito de forma orientada a objetos
+- 🧠 [Dataframe Shell en C](https://github.com/agallego-dev/dataframe-shell-c): Aplicación de consola para cargar, visualizar y manipular dataframes tipo pandas, usando C puro y memoria dinámica
 
 ---
 
