@@ -60,7 +60,6 @@ Desarrollador de software con más de 10 años de experiencia en entornos empres
 Si estás interesado en colaborar, proponerme un reto técnico o simplemente conectar:
 
 - GitHub: [@agallego-dev](https://github.com/agallego-dev)
-- Email: agallego@example.com
-- LinkedIn: *(puedes añadir tu perfil si lo deseas)*
+- Email: gallegolopez1990@gmail.com
 
 ---
