@@ -47,6 +47,15 @@ Desarrollador de software con más de 10 años de experiencia en entornos empres
 
 ---
 
+## 📊 Trabajos académicos con Python e IA
+
+- 📘 Estadística aplicada en Google Colab (Python + Gemini)  
+  Desarrollo de ejercicios estadísticos usando Python en Google Colab. Se aplicaron técnicas de análisis de datos con Pandas, representación gráfica con Matplotlib y Seaborn, así como la creación de funciones estadísticas personalizadas para el cálculo de frecuencias. Se contó con el apoyo de Gemini (IA) para aclaraciones conceptuales y optimización del flujo de trabajo.
+
+- 📈 Fundamentos estadísticos y automatización de análisis  
+  Conjunto de notebooks realizados como parte de la asignatura de Estadística, abordando análisis descriptivo, inferencia básica y visualización de datos. Se trabajó con Pandas, NumPy y Matplotlib, aplicando conceptos clave aprendidos a lo largo del curso.
+---
+
 ## 🎯 Competencias clave
 
 - Resolutivo ante problemas técnicos reales
