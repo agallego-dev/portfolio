@@ -15,7 +15,7 @@ Desarrollador de software con más de 10 años de experiencia en entornos empres
 ### Frontend
 - HTML, CSS, JavaScript
 - JSP y servlets en entornos legacy
-- ReactJS (nivel intermedio / en formación continua)
+- ReactJS (nivel básico / en formación continua)
 
 ### Bases de datos
 - Oracle
